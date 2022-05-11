@@ -5,6 +5,7 @@ import Hero from "./components/Hero";
 import Ourwork from "./components/Ourwork";
 import Aboutus from "./components/Aboutus";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Ourwork />
         <Aboutus />
         <Contact />
+        <Footer />
       </div>
     </Router>
   );
