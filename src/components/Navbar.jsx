@@ -26,7 +26,7 @@ const Navbar = () => {
           <ul>
             <li className="text-2xl opacity-80 hover:opacity-100 cursor-pointer"><a href="#about">About Us</a></li>
             <li className="text-2xl opacity-80 hover:opacity-100 cursor-pointer"><a href="#staff">Staff</a></li>
-            <li className="text-2xl opacity-80 hover:opacity-100 cursor-pointer"><a href="#ourWork">Our Work</a></li>
+            <li className="text-2xl opacity-80 hover:opacity-100 cursor-pointer"><a href="#ourwork">Our Work</a></li>
             <li className="text-2xl opacity-80 hover:opacity-100 cursor-pointer"><a href="#contact">Contact</a></li>
             <button className="mt-6 text-xl text-white py-3 px-7 mb-10 bg-[#f76d28] border-[2px] border-[#f76d28] rounded-lg transition-[0.2s] ease-in-out hover:bg-[#f76d28] hover:scale-105 active:scale-95 ">Book Now</button>
           </ul>
@@ -41,7 +41,7 @@ const Navbar = () => {
           <ul className="flex text-white items-center cursor-pointer">
             <li className="opacity-80 hover:opacity-100 mr-2"><a href="#about">About Us</a></li>
             <li className="opacity-80 hover:opacity-100 mr-2"><a href="#staff">Staff</a></li>
-            <li className="opacity-80 hover:opacity-100 mr-2"><a href="#ourWork">Our Work</a></li>
+            <li className="opacity-80 hover:opacity-100 mr-2"><a href="#ourwork">Our Work</a></li>
             <li className="opacity-80 hover:opacity-100 mr-2"><a href="#contact">Contact</a></li>
           </ul>
       </div>
