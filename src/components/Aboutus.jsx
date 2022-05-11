@@ -7,7 +7,7 @@ const Aboutus = () => {
     <div name="about" className="w-full h-screen relative text-white" id="about">
       <div className="max-w-[1000px]">
         <img
-          className="absolute bg-fixed bg-no-repeat bg-cover -z-10"
+          className="absolute bg-fixed bg-no-repeat bg-cover h-screen 2xl:h-auto object-cover  -z-10"
           src={aboutImg}
           alt=""
         />
