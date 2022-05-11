@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-shutter-landing-page/static/css/main.8d3b4fa1.css",
-    "main.js": "/react-shutter-landing-page/static/js/main.7caa0ec9.js",
+    "main.css": "/react-shutter-landing-page/static/css/main.1d740766.css",
+    "main.js": "/react-shutter-landing-page/static/js/main.6953cb8c.js",
     "static/media/video-lighting.jpg": "/react-shutter-landing-page/static/media/video-lighting.de436d89dd373ec9e859.jpg",
     "static/media/About.jpg": "/react-shutter-landing-page/static/media/About.6935cd6dd53e9ac3ce62.jpg",
     "static/media/Children.jpeg": "/react-shutter-landing-page/static/media/Children.6047aa8bf34eb998078b.jpeg",
@@ -10,11 +10,11 @@
     "static/media/Men1.jpg": "/react-shutter-landing-page/static/media/Men1.9ee1a41b47de97528385.jpg",
     "static/media/Female1.jpg": "/react-shutter-landing-page/static/media/Female1.ea2fd93ac9b5d99596aa.jpg",
     "index.html": "/react-shutter-landing-page/index.html",
-    "main.8d3b4fa1.css.map": "/react-shutter-landing-page/static/css/main.8d3b4fa1.css.map",
-    "main.7caa0ec9.js.map": "/react-shutter-landing-page/static/js/main.7caa0ec9.js.map"
+    "main.1d740766.css.map": "/react-shutter-landing-page/static/css/main.1d740766.css.map",
+    "main.6953cb8c.js.map": "/react-shutter-landing-page/static/js/main.6953cb8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d3b4fa1.css",
-    "static/js/main.7caa0ec9.js"
+    "static/css/main.1d740766.css",
+    "static/js/main.6953cb8c.js"
   ]
 }
