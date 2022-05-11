@@ -1,4 +1,5 @@
 import React from 'react';
+import { Rotate } from 'react-reveal';
 
 const Contact = () => {
   return (
@@ -11,7 +12,9 @@ const Contact = () => {
         <input className="p-2 bg-[#f6e9cc]" type="text" placeholder="Name" name="name" />
         <input className="my-4 p-2 bg-[#f6e9cc]" type="email" placeholder="Email" name="email" />
         <textarea className="p-2 bg-[#f6e9cc]" name="message" rows="10" placeholder="Your Review And Rating"></textarea>
-        <button className="text-white border-[2px] border-[#f76d28] rounded-lg px-4 py-3 my-8 mx-auto flex items-center bg-[#f76d28] transition-[0.2s] ease-in-out hover:bg-[#f76d28] hover:scale-105 active:scale-95">Rate Us</button>
+        <Rotate  bottom left>
+          <button className="text-white border-[2px] border-[#f76d28] rounded-lg px-4 py-3 my-8 mx-auto flex items-center bg-[#f76d28] transition-[0.2s] ease-in-out hover:bg-[#f76d28] hover:scale-105 active:scale-95">Rate Us</button>
+        </Rotate>
       </form>
     </div>
   )

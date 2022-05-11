@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
 import { FaBars } from "react-icons/fa";
 import { MdOutlineClose } from "react-icons/md";
 
@@ -33,10 +32,11 @@ const Navbar = () => {
         </div>
 
       <div className="text-[2rem] text-white hidden md:flex justify-center items-center px-4 lg:translate-x-1/4">
-        <Link to="/">
+        <a href="/">
           <h1>Shutter &amp; Shoot Studio</h1>
-        </Link>
+        </a>
       </div>
+      
       <div className="text-lg text-white hidden lg:flex items-center justify-center gap-4">
           <ul className="flex text-white items-center cursor-pointer">
             <li className="opacity-80 hover:opacity-100 mr-2"><a href="#about">About Us</a></li>
