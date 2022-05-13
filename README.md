@@ -1,5 +1,6 @@
-#Live Demo
+# Live Demo
 This project was created with react, react reveal package for animations, TailwindCSS
+https://ahmedxxta.github.io/react-shutter-landing-page/
 
 # Getting Started with Create React App
 
